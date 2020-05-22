@@ -630,7 +630,8 @@ img {
     max-width: 1170px;
     position: absolute;
     top: 90px;
-    left: 500px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .contactForm form {
